@@ -19,5 +19,6 @@
 	<classpathentry kind="lib" path="C:/Users/jorge.betancur/eclipse-workspace/poi/poi/slf4j-api-1.7.36.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jorge.betancur/eclipse-workspace/poi/poi/xmlbeans-5.0.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jorge.betancur/eclipse-workspace/poi/poi/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorge.betancur/eclipse-workspace/poi/poi/yamlbeans-1.15.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
